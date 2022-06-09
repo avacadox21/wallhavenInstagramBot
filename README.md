@@ -15,7 +15,7 @@ tho 💀
   
  
  ## Remarks
-   there have been some issues with instabot like send limits, don't use it for bad fkcing morons, remember to change your username and password in both index.js and 
+   there have been some issues with instabot like send limits and what not, fix it if you can uwu oni chan don't use it for bad fkcing morons, remember to change your      username and password in both index.js and 
    upload.py
    
    Use the BATCH file, it automates shit
